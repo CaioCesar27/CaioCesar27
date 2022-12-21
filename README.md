@@ -32,6 +32,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Caio/Caio/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/CaioCesar27/CaioCesar27/main/snake.svg" alt="Snake animation" />
 
 ###
